@@ -1,6 +1,6 @@
 # PCA-R
 This is an implementation of Principal Component Analysis in R on the Iris dataset.  
-There are three distance metrics used to calculate and compare among them. They are as follows:  
+There are three distance metrics used to calculate the inter and intra species distance and find out how well they are able to distinguish between the species. They are as follows:  
 - Euclidean Distance
 - Cosine Distance
 - L-infinty Distance
